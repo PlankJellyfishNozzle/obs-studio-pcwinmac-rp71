@@ -1,4 +1,4 @@
-# 
+# Instantané OBS Studio modèles pour Mac OS | Avancé OBS Studio modèles pour PC Windows. Avec traitement par lots et rotoscopie — optimisé pour des performances maximales sur chaque plateforme.
 
 
 
